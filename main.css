@@ -23,9 +23,7 @@ nav ul li {
 }
 
 nav ul li a {
-    padding: 30px 80px;
     text-decoration: none; 
-    color: #000000;
     font-family: sans-serif;
     font-weight: 600;
 }
@@ -33,28 +31,31 @@ nav ul li a {
 .sports {
     font-family: sans-serif;
     font-weight: 700;
-    padding: 2px;
+    padding: 2px 8px;
     color: cadetblue;
 }
 
 .economy {
     font-family: sans-serif;
     font-weight: 700;
-    padding: 2px;
+    padding: 2px 8px;
+    margin-top: 8px;
     color: burlywood;
 }
 
 .e-sports {
     font-family: sans-serif;
     font-weight: 700;
-    padding: 2px;
+    padding: 2px 8px;
+    margin-top: 8px;
     color: #cf7500;
 }
 
 .tecnologia {
     font-family: sans-serif;
     font-weight: 700;
-    padding: 2px;
+    padding: 2px 8px;
+    margin-top: 8px;
     color: blue
 }
 
@@ -67,7 +68,7 @@ h3 {
 p {
     font-family: sans-serif;
     font-weight: 700;
-    padding-left: 3px;
+    padding-left: 8px;
     color: #696969;
 }
 
@@ -75,12 +76,13 @@ time {
     font-family: sans-serif;
     font-weight: 800;
     color: #7c7c7c;
-
+    padding-left: 8px;
 }
 
 img {
     width: 640px; height: 426px; 
     border-radius: 10px;
+    padding-left: 5px;
 }
 
 article a {
@@ -88,5 +90,24 @@ article a {
     color: #214e92;
     font-family: sans-serif;
     font-weight: 800;
-    padding: 2px;
+    padding-left: 8px;
+}
+.sp {
+    background-color: rgba(95, 158, 160, 0.178);
+    border-radius: 5px;
+}
+
+.ec {
+    background-color: rgba(222, 184, 135, 0.205);
+    border-radius: 5px;
+}
+
+.e-sp {
+    background-color: #cf75003f;
+    border-radius: 5px;
+}
+
+.tec {
+    background-color: rgba(0, 0, 255, 0.185);
+    border-radius: 5px;
 }
