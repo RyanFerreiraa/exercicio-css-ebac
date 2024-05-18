@@ -1,0 +1,92 @@
+h1 {
+    padding: 30px 50px;
+    background-color: #69696956;
+    color: #696969;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+nav {
+    background-color: #69696956;
+    padding: 10px 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 10px 5px;
+    margin: 0;
+    
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    padding: 30px 80px;
+    text-decoration: none; 
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.sports {
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 2px;
+    color: cadetblue;
+}
+
+.economy {
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 2px;
+    color: burlywood;
+}
+
+.e-sports {
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 2px;
+    color: #cf7500;
+}
+
+.tecnologia {
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 2px;
+    color: blue
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: 900;
+    padding: 2.5px;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-left: 3px;
+    color: #696969;
+}
+
+time {
+    font-family: sans-serif;
+    font-weight: 800;
+    color: #7c7c7c;
+
+}
+
+img {
+    width: 640px; height: 426px; 
+    border-radius: 10px;
+}
+
+article a {
+    text-decoration: none;
+    color: #214e92;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding: 2px;
+}
